@@ -1,0 +1,6 @@
+path: D:/py_pro/27yolo/ball2
+train: images
+val: images
+
+names:
+  0: ball

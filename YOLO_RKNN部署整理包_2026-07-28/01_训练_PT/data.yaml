@@ -1,0 +1,5 @@
+path: D:\QQ\QSflow_TestProject\QSflow\ssj\ball2
+train: images
+val: images
+names:
+  0: ball

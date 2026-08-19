@@ -1,0 +1,39 @@
+# ---- 工具/缓存 ----
+.agents/
+.ultralytics/
+__pycache__/
+*.pyc
+tmp/
+tmp_pdf_pages/
+video_analysis_frames/
+video_review/
+
+# ---- 数据集与录像 ----
+2ball_fixed/
+new shujuji/
+shujuji/
+ball_detct/
+received_recordings/
+runs/
+
+# ---- 大体积 / 中间产物 ----
+_wsl_model_export/
+orangepi_manual_pages/
+YOLO_RKNN部署整理包_2026-07-28/06_模型/
+check*.onnx
+*.zip
+
+# ---- 报告（代码仓库不推，需要时再放开） ----
+*.docx
+*.pdf
+报告/
+_report_work/
+report_work/
+
+# ---- 手工备份 / 实验残留脚本 ----
+camera_detect_yolo26_int8_highfps_before_*.py
+camera_detect_yolo26_int8_highfps_dynamic_pipe_warp_rejected_*.py
+
+# ---- 其他项目残留 / 杂项 ----
+script_b64.txt
+skills_data.txt
