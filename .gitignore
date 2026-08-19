@@ -37,3 +37,5 @@ camera_detect_yolo26_int8_highfps_dynamic_pipe_warp_rejected_*.py
 # ---- 其他项目残留 / 杂项 ----
 script_b64.txt
 skills_data.txt
+h_ballvision_simple/
+H题_第一步_简化图传/
